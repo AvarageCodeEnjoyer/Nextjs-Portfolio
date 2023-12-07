@@ -10,9 +10,9 @@ export default function Home() {
       <h1 className={styles.title}>
         Niko Drossos
       </h1>
-      <p className={styles.desc}>
-        Imagine draggon (my lawyers have advised me not to finish this joke)
-      </p>
+      {/* <p className={styles.desc}>
+        
+      </p> */}
       <Button url="https://avaragecodeenjoyer.github.io/Real-portfolio-Website/Portfolio.html" text="See my portfolio!"/>
     </div>
     <div className={styles.item}>
